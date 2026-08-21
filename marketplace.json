@@ -1,0 +1,13 @@
+{
+  "name": "levier-plugins",
+  "owner": {
+    "name": "Levier"
+  },
+  "plugins": [
+    {
+      "name": "levier-schl",
+      "source": "./levier-schl",
+      "description": "Méthode Levier pour monter des dossiers de financement assuré SCHL : guide du processus et des normes, génération de présentations de dossier, et aide au remplissage des gabarits de suivi."
+    }
+  ]
+}
