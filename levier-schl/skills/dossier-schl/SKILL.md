@@ -36,6 +36,7 @@ Charge `references/normes-schl.md` pour le détail complet des normes avant de r
 
 ## Utilisation avec les autres skills
 
+- Avant même l'étape 1 (collecte de documentation), pour préparer le contrat que le client emprunteur doit signer avec Levier (l'offre de service / mandat de courtage), utilise la skill `offre-service-schl`.
 - Pour construire une présentation de dossier à partir des documents d'un projet, utilise la skill `presentation-schl`.
 - Pour remplir un gabarit de suivi (CP, bilan personnel, budget de construction, états des résultats, liste des intervenants), utilise la skill `gabarits-schl`.
 
